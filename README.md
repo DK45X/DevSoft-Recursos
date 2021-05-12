@@ -11,29 +11,14 @@ Creado por: [DK45X](https://github.com/DK45X)
 
 # Tabla de contenidos 💡
 
-- [Resumen](#resumen)
-- [Comunidad](#comunidad)
+
 - [Índice](#índice)
 - [Contribución](#contribución)
 
-# Resumen 
 
-[Acadeller](https://github.com/Acadeller) es una comunidad creada para impulsar a las personas en el mundo del desarrollo de software. Que empezó siendo una pequeña cuenta de Instagram que hacía publicaciones sobre programación. A día de hoy contamos con más de 15.000 seguidores en nuestras redes sociales, pero nuestro objetivo sigue siendo el mismo: ***ayudar a a la gente a aprender programación.***
-
-Por esa razón, nace este repositorio. Cuyo objetivo principal, es recopilar la mayor cantidad posible de recursos de programación que existan en internet, para que estén al alcance de cualquier persona en todo momento. El repositorio está dividido por lenguajes de programación, en cada lenguaje podrás encontrar recursos para dicho lenguaje, frameworks, librerías y mucho más.
 
 Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo de [esta manera](#contribución).
 
-# Comunidad 
-
-- Puedes seguirnos en nuestra cuenta de [Instagram](https://www.instagram.com/acadeller/) para ver publicaciones sobre programación 
-- ¡Tenemos un servidor de Discord! Aquí podras compartir tus experiencias y conocer a otros desarrolladores [Únete al Discord de Acadeller](https://discord.com/invite/9vvcTTC) <a href="https://discord.com/invite/9vvcTTC">
-    		<img src="https://img.shields.io/discord/715323337240477707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2" alt="Discord">
-  	</a>
-- No te olvides tampoco de seguirnos en nuestra cuenta de [Twitter](https://twitter.com/acadeller). <a href="https://twitter.com/acadeller">
-    		<img src="https://img.shields.io/twitter/follow/acadeller?label=Follow&style=social" alt="Twitter">
-  	</a>
-- También puedes ver nuestro contenido en [Linkedin](https://www.linkedin.com/company/68485158).
 
 # Índice 
 
@@ -60,14 +45,7 @@ Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo d
 
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
-| C Cheatsheet | Cheatsheet de C | Cheatsheet | Inglés | Sí | [Link](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/C.txt) |
-| C - Empieza a programar | Lista de tutoriales para aprender C | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=wgiBStujBCw&list=PLw8RQJQ8K1ySN6bVHYEpDoh-CKVkL_uOF&index=3&ab_channel=EmpiezaAProgramar) |
-| C in a Nutshell | Libro para aprender C | Libro | Inglés | No | [Link](https://www.amazon.com/Nutshell-Definitive-Reference-Peter-Prinz/dp/1491904755) |
-| C Programming For Beginners | Curso de C para principiantes | Curso | Inglés | No | [Link](https://www.udemy.com/course/c-programming-for-beginners/) |
-| C Programming In One Video | Video resumen para entender la sintaxis de C | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=3lQEunpmtRA&ab_channel=MikeDane) |
-| C Programming Tutorial for Beginners | Tutorial para aprender C para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=KJgsSFOSQv0&ab_channel=freeCodeCamp.org) |
-| Learn C | Documentación de iniciación de C | Documentación | Inglés | Sí | [Link](https://www.learn-c.org/) |
-| SoloLearn C | Curso para aprender C con solo Sololearn | Curso | Inglés | Sí | [Link](https://www.sololearn.com/learning/1089) |
+| Material-UI |  | Ingles |  | Sí | [Link](https://material-ui.com/es/getting-started/installation/) |
 
 **[⬆ Volver al índice](#índice)**
 
