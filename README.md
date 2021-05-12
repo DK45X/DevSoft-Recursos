@@ -134,23 +134,23 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 
 ## Github
 
-Nombre | Descripción | Tipo | Idioma | Gratuito | Link | Elaborado por |
+Nombre | Tipo | Idioma | Gratuito | Link | Elaborado por |
 |---|---|---|---|---|---|
-| Repositorios Github |  | Ingles | Repositorios | Gratis | [Link](https://dev.to/pb/10-github-repositories-every-developer-should-know-ngm) |
-| free-programming-books |  | Ingles | Repositorios | Gratis | [Link](https://github.com/EbookFoundation/free-programming-books) |https://github.com/EbookFoundation|
-| Awesome-Ionic |  | Ingles | Repositorios | Gratis | [Link](https://github.com/Alexintosh/Awesome-Ionic) |https://github.com/Alexintosh|
-| react-book |  | Ingles | Repositorios | Gratis | [Link](https://github.com/softchris/react-book?ref=java5cript.com) |https://github.com/softchris|
-| recursos-programacion |  | Español | Repositorios | Gratis | [Link](https://github.com/Acadeller/recursos-programacion) |https://github.com/Acadeller|
-| biblioteca-espanol-gratis |  | Español | Repositorios | Gratis | [Link](https://github.com/rosepac/biblioteca-espanol-gratis) |https://github.com/rosepac|
-| frontend-developer-resources#-control-de-versiones |  | Español | Repositorios | Gratis | [Link](https://github.com/mrcodedev/frontend-developer-resources#-control-de-versiones) |https://github.com/mrcodedev|
-| recursos-gratuitos |  | Español | Repositorios | Gratis | [Link](https://github.com/iuricode/recursos-gratuitos) |https://github.com/iuricode|
-| react-espanol |  | Español | Repositorios | Gratis | [Link](https://github.com/jlobos/react-espanol) |https://github.com/jlobos|
-| recursos |  | Español | Repositorios | Gratis | [Link](https://github.com/horchatajs/recursos/) |https://github.com/horchatajs|
-| awesome-learning-resources |  | Ingles | Repositorios | Gratis | [Link](https://github.com/lauragift21/awesome-learning-resources) |https://github.com/lauragift21|
-| javascript-algorithms |  | Ingles | Repositorios | Gratis | [Link](https://github.com/trekhleb/javascript-algorithms) |https://github.com/trekhleb|
-| build-your-own-x |  | Ingles | Repositorios | Gratis | [Link](https://github.com/danistefanovic/build-your-own-x) |https://github.com/danistefanovic|
-| clean-code-javascript |  | Ingles | Repositorios | Gratis | [Link](https://github.com/ryanmcdermott/clean-code-javascript) |https://github.com/ryanmcdermott|
-| coding-interview-university |  | ingles | Repositorios | Gratis | [Link](https://github.com/jwasham/coding-interview-university) |https://github.com/jwasham|
+| Repositorios Github | Ingles | Repositorios | Gratis | [Link](https://dev.to/pb/10-github-repositories-every-developer-should-know-ngm) |
+| free-programming-books |  Ingles | Repositorios | Gratis | [Link](https://github.com/EbookFoundation/free-programming-books) |https://github.com/EbookFoundation|
+| Awesome-Ionic |  Ingles | Repositorios | Gratis | [Link](https://github.com/Alexintosh/Awesome-Ionic) |https://github.com/Alexintosh|
+| react-book |  Ingles | Repositorios | Gratis | [Link](https://github.com/softchris/react-book?ref=java5cript.com) |https://github.com/softchris|
+| recursos-programacion |  Español | Repositorios | Gratis | [Link](https://github.com/Acadeller/recursos-programacion) |https://github.com/Acadeller|
+| biblioteca-espanol-gratis |  Español | Repositorios | Gratis | [Link](https://github.com/rosepac/biblioteca-espanol-gratis) |https://github.com/rosepac|
+| frontend-developer-resources#-control-de-versiones | Español | Repositorios | Gratis | [Link](https://github.com/mrcodedev/frontend-developer-resources#-control-de-versiones) |https://github.com/mrcodedev|
+| recursos-gratuitos | Español | Repositorios | Gratis | [Link](https://github.com/iuricode/recursos-gratuitos) |https://github.com/iuricode|
+| react-espanol |  Español | Repositorios | Gratis | [Link](https://github.com/jlobos/react-espanol) |https://github.com/jlobos|
+| recursos | Español | Repositorios | Gratis | [Link](https://github.com/horchatajs/recursos/) |https://github.com/horchatajs|
+| awesome-learning-resources | Ingles | Repositorios | Gratis | [Link](https://github.com/lauragift21/awesome-learning-resources) |https://github.com/lauragift21|
+| javascript-algorithms | Ingles | Repositorios | Gratis | [Link](https://github.com/trekhleb/javascript-algorithms) |https://github.com/trekhleb|
+| build-your-own-x | Ingles | Repositorios | Gratis | [Link](https://github.com/danistefanovic/build-your-own-x) |https://github.com/danistefanovic|
+| clean-code-javascript | Ingles | Repositorios | Gratis | [Link](https://github.com/ryanmcdermott/clean-code-javascript) |https://github.com/ryanmcdermott|
+| coding-interview-university | ingles | Repositorios | Gratis | [Link](https://github.com/jwasham/coding-interview-university) |https://github.com/jwasham|
 
 
 
