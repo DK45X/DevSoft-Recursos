@@ -23,8 +23,8 @@ Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo d
 # Índice 
 
 * [C](#c)
-* [Chatbots](#chatbots)
-* [Dart](#dart)
+* [Chatbots](#Chatbots)
+* [Cursos](#Cursos)
 * [Go](#go)
 * [HTML](#html)
 * [Java](#java)
@@ -61,19 +61,20 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 
 **[⬆ Volver al índice](#índice)**
 
-### C#
+### Cursos
 
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
-| Build a C# .NET Application in 60 Minutes | Tutorial para crear una aplicación .NET | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=GcFJjpMFJvI&ab_channel=TraversyMedia) |
-| C# App in One Hour | Tutorial para crear una aplicación de C# | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=BfEjDD8mWYg&ab_channel=freeCodeCamp.org) |
-| C# Cheatsheet | Cheatsheet de C# | Cheatsheet | Inglés | Sí | [Link](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/C%23.txt) |
-| C# Tutorial | Tutorial de C# de 4 horas y media | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=GhQdlIFylQ8&ab_channel=freeCodeCamp.org) |
-| C# Ya | Documentación paso a paso de C# | Documentación | Español | Sí | [Link](https://www.tutorialesprogramacionya.com/csharpya/) |
-| Curso C# Píldoras Informáticas | Lista de Repoducción del Curso de C# de Píldoras Informáticas | Curso | Español | Sí | [Link](https://www.youtube.com/watch?v=6EBNIgkrU74&list=PLU8oAlHdN5BmpIQGDSHo5e1r4ZYWQ8m4B&ab_channel=pildorasinformaticas) |
-| Documentación C# | Documentación oficial de C# | Documentación | Español | Sí | [Link](https://docs.microsoft.com/es-es/dotnet/csharp/) |
-| Learn C# | Documentación con tutoriales de C# | Documentación | Inglés | Sí | [Link](https://www.learncs.org/) |
-| SoloLearn C# | Curso para aprender C# con solo Sololearn | Curso | Inglés | Sí | [Link](https://www.sololearn.com/learning/1080) |
+| egghead |  | Ingles | Cursos | Gratis | [Link](https://egghead.io/) |
+| freecoursesite |  | Ingles | Cursos | Gratis | [Link](https://freecoursesite.com/) |
+| 30secondsofcode |  | Ingles | Cursos | Gratis | [Link](https://www.30secondsofcode.org/) |
+| scotch |  | Ingles | Cursos | Gratis | [Link](https://scotch.io/) |
+| fullstackopen |  |  | Retos | Gratis | [Link](https://fullstackopen.com/) |
+| free-online-programming-cs-courses |  | Ingles | Cursos | Gratis - Pago | [Link](https://www.freecodecamp.org/news/free-online-programming-cs-courses/) |
+| Freecodecamp |  | ingles | Cursos | Gratis | [Link](https://www.freecodecamp.org/) |
+![image](https://user-images.githubusercontent.com/65876155/117920284-3bad4280-b2b4-11eb-8f0d-2d0dbdb0806f.png)
+
+
 
 **[⬆ Volver al índice](#índice)**
 
