@@ -31,13 +31,17 @@ Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo d
 * [Elixir](#Elixir)
 * [Flutter](#Flutter)
 * [Github](#Github)
-* [Python](#python)
-* [R](#R)
-* [Ruby](#ruby)
-* [Rust](#rust)
-* [Scala](#scala)
-* [SQL](#sql)
-* [Swift](#swift)
+* [GO](#Go)
+* [Google](#Google)
+* [IOS](#IOS)
+* [Microsoft](#Microsoft)
+* [Nativescript](#Nativescript)
+* [PHP](#PHP)
+* [Python](#Python)
+* [React](#React)
+* [Recursos](#Recursos)
+* [Rust](#Rust)
+* [VueJS](#VueJS)
 
 ## C
 
@@ -156,8 +160,152 @@ Nombre | Tipo | Idioma | Gratuito | Link | Elaborado por |
 
 **[⬆ Volver al índice](#índice)**
 
+## Flutter
+
+Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| go.libhunt |  | Ingles | Blog - recursos | Gratis | [Link](https://go.libhunt.com/) |
 
 
+**[⬆ Volver al índice](#índice)**
+
+## Go
+
+Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| go.libhunt |  | Ingles | Blog - recursos | Gratis | [Link](https://go.libhunt.com/) |
+
+
+**[⬆ Volver al índice](#índice)**
+
+## Google
+
+Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| developers.google |  | ingles | Blog - recursos | Gratis | [Link](https://developers.google.com/events) |
+| skillshop.withgoogle |  | Ingles | Blog - recursos | Gratis | [Link](https://skillshop.withgoogle.com/) |
+| learndigital.withgoogle |  | Ingles | Blog - recursos | Gratis | [Link](https://learndigital.withgoogle.com/activate) |
+| developers.google |  | Ingles | Blog - recursos | Gratis | [Link](https://developers.google.com/machine-learning/crash-course) |
+| grow.google |  | Ingles | Blog - recursos | Gratis | [Link](https://grow.google/certificates/#?modal_active=none) |
+
+
+**[⬆ Volver al índice](#índice)**
+
+
+## IOS
+
+Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| iosexample |  | Ingles | Blog - recursos | Gratis | [Link](https://iosexample.com/)
+| ios.libhunt |  | Ingles | Blog - recursos | Gratis | [Link](https://ios.libhunt.com/)
+
+
+**[⬆ Volver al índice](#índice)**
+
+## Microsoft
+
+Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| docs.microsoft |  | Ingles | Blog - recursos | Gratis | [Link](https://docs.microsoft.com/en-us/learn/) |
+
+
+**[⬆ Volver al índice](#índice)**
+
+## Nativescript
+
+Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| Nativescript |  | Ingles | framework  | Gratis | [Link](https://nativescript.org/) |
+
+
+**[⬆ Volver al índice](#índice)**
+
+## Nativescript
+
+Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| Nativescript |  | Ingles | framework  | Gratis | [Link](https://nativescript.org/) |
+
+
+**[⬆ Volver al índice](#índice)**
+
+## PHP
+
+Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| php.libhunt |  | Ingles | Blog - recursos | Gratis | [Link](https://php.libhunt.com/) |
+
+
+**[⬆ Volver al índice](#índice)**
+
+## Phyton
+
+Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| pythonawesome |  | Ingles | Blog - recursos | Gratis | [Link](https://pythonawesome.com/) |
+| realpython |  | Ingles | Blog - recursos | Gratis - Pago | [Link](https://realpython.com/) ||
+
+
+**[⬆ Volver al índice](#índice)**
+
+## React
+
+Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| Material-UI |  | Ingles |  | Gratis | [Link](https://material-ui.com/es/getting-started/installation/) |
+| rebassjs |  | Ingles | Librería | Gratis | [Link](https://rebassjs.org/) |
+| Chakra-UI |  | ingles | Librería | Gratis | [Link](https://chakra-ui.com/) |
+| React-boostrap |  | Ingles | Librería | Gratis | [Link](https://react-bootstrap.github.io/) |
+| Ant-Design |  | Ingles | Librería | Gratis | [Link](https://ant.design/) |
+| reactjsexample |  | Ingles | Blog - recursos | Gratis | [Link](https://reactjsexample.com/) |
+| upmostly |  | Ingles | Blog - recursos | Gratis | [Link](https://upmostly.com/) |
+| Free ReactJS Templates |  | Ingles | Blog - recursos | Gratis | [Link](https://dev.to/exwhyzed/15-free-reactjs-templates-for-your-next-project-313m) |
+| midu.dev |  | Español | Cursos | Gratis | [Link](https://midu.dev/curso-gratis-react-2020/) |
+| flatlogic |  | Ingles | Plantillas - Temas | Gratis - Pago | [Link](https://flatlogic.com/templates/react?gclid=Cj0KCQjw-LOEBhDCARIsABrC0TmFkTCiMNY40nx9hgBCzK1yo9U5dJHLsUBM-Pvqpo5vxIBCtzZbs74aAtsAEALw_wcB) |
+| nctend |  | Ingles | Plugins | Gratis | [Link](https://nxtend.dev/) |
+| Mantine |  | Ingles | Librería | Gratis -Lic MIT | [Link]( https://mantine.dev/) |
+| LogRocket |  | Ingles | Blog - recursos | Gratis | [Link](https://blog.logrocket.com/the-best-react-native-libraries-for-leveraging-native-features/)
+
+
+**[⬆ Volver al índice](#índice)**
+
+
+## Recursos
+
+Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| themes.vscode.one | Crea t propio tema de vscode gratis  | Ingles | Diseño | Gratis | [Link](https://themes.vscode.one/)|
+| answerthepublic | Busca laspalabras y frases mas buscadas, efectivo para SEO y posicionaminento | Ingles | Recurso | Gratis - Pago | [Link](https://answerthepublic.com/)|
+| fastorslow | Medir la velicidad de un sitio | Ingles | Herramienta | Gratis | [Link](https://www.fastorslow.com/)|
+| winstall |  | Ingles | Herramienta | Gratis | [Link](https://winstall.app/)|
+| getfrontend.tips |  | Ingles | Blog - recursos | Gratis | [Link](https://getfrontend.tips/) |
+| apihouse | Generador de apis | Ingles | Recurso | Gratis | [Link](https://apihouse.vercel.app/) |
+| atlassian |  | Ingles | Blog - recursos | Gratis | [Link](https://www.atlassian.com/es/git) |
+| dangitgit |  | Ingles | Blog - recursos | Gratis | [Link](https://dangitgit.com/es) |
+| gitexplorer |  | Ingles | Blog - recursos | Gratis | [Link](https://gitexplorer.com/) |
+
+
+**[⬆ Volver al índice](#índice)**
+
+
+## Rust
+
+Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| rust.libhunt |  | Ingles | Blog - recursos | Gratis | [Link](https://rust.libhunt.com/) |
+
+
+**[⬆ Volver al índice](#índice)**
+
+## VueJS
+
+Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| vuejsexamples |  | Ingles | Blog - recursos | Gratis | [Link](https://vuejsexamples.com/) |
+| Recursos VueJS definitivos para Desarrolladores |  | ingles | Blog - recursos | Gratis | [Link](https://dev.to/theme_selection/ultimate-vuejs-resources-for-developers-3bbk) |
+
+
+**[⬆ Volver al índice](#índice)**
 
 
 
@@ -165,7 +313,6 @@ Nombre | Tipo | Idioma | Gratuito | Link | Elaborado por |
 
 Cualquier persona puede contribuir a este repositorio, invitamos a la comunidad a formar parte de este proyecto para hacer crecer este recurso y que tengo un mayor valor. 
 
-Cabe destacar que este repositorio NO es una herramienta de marketing, el objetivo es aportar a la comunidad, no hacer un negocio. Por esa razón, las pull requests que parezcan un intento de marketing no serán aceptadas. 
 
 ## ¿Cómo contribuir al repositorio? 🤝
 
@@ -200,9 +347,4 @@ Pasos a seguir para realizar una contribución:
 
 Una vez que hayas enviado tu "pull request", los colaboradores podremos revisar los cambios propuestos y decidir si incorporarlos o no.
 
-## Contribuidores 🏆
-
-* [César Álvarez Llaneza](https://github.com/cesaralvrz): Fundador de Acadeller.
-* [Santiago Ramirez](https://github.com/santy-ramirez): Contribuidor.
-* [Rgg7888](https://github.com/rgg7888): Contribuidor.
-* [KodeWeb21](https://github.com/KodeWeb21): Contribuidor.
+Gracias!!!!
