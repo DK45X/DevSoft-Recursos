@@ -2,19 +2,10 @@
 
 # DevSoft-Recursos
 
-![DevSoft](###)
+![DevSoft]
 
-Creado por: [Acadeller](https://github.com/Acadeller)
+Creado por: [DK45X](https://github.com/DK45X)
 
-<p align="center">
-  Recopilación de recursos para desarrolladores.
-</p>
-<p align="center">
-  <a href="https://github.com/Acadeller/recursos-programacion">
-	<img alt="Acadeller - Recursos Programación" src="https://img.shields.io/badge/Acadeller-recursos--programaci%C3%B3n-yellow.svg">
-	  <br>
- </a>
-</p>
 
 </div>
 
