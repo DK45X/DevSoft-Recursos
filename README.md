@@ -2,8 +2,6 @@
 
 # DevSoft-Recursos
 
-![DevSoft]
-
 Creado por: [DK45X](https://github.com/DK45X)
 
 
