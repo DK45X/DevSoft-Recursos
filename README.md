@@ -134,9 +134,9 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 
 ## Github
 
-Nombre | Descripción | Tipo | Idioma | Gratuito | Link | Elaborado por|
+Nombre | Descripción | Tipo | Idioma | Gratuito | Link | Elaborado por |
 |---|---|---|---|---|---|
-| Repositorios Github |  | Ingles | Repositorios | Gratis | [Link](https://dev.to/pb/10-github-repositories-every-developer-should-know-ngm) ||
+| Repositorios Github |  | Ingles | Repositorios | Gratis | [Link](https://dev.to/pb/10-github-repositories-every-developer-should-know-ngm) |
 | free-programming-books |  | Ingles | Repositorios | Gratis | [Link](https://github.com/EbookFoundation/free-programming-books) |https://github.com/EbookFoundation|
 | Awesome-Ionic |  | Ingles | Repositorios | Gratis | [Link](https://github.com/Alexintosh/Awesome-Ionic) |https://github.com/Alexintosh|
 | react-book |  | Ingles | Repositorios | Gratis | [Link](https://github.com/softchris/react-book?ref=java5cript.com) |https://github.com/softchris|
