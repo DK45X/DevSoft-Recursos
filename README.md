@@ -2,7 +2,7 @@
 
 # DevSoft-Recursos
 
-![Acadeller - Recursos de Programación](http://i.imgur.com/5fhhRTw.png)
+![DevSoft](###)
 
 Creado por: [Acadeller](https://github.com/Acadeller)
 
